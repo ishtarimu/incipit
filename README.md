@@ -13,6 +13,7 @@ Vous pouvez éditez ce fichier afin de définir le Titre, le Sous-Titre et la De
 
 Éditez incipit.txt selons ce modèle :
 
+```
 Titre
 
 Sous-Titre
@@ -20,3 +21,4 @@ Sous-Titre
 Description
 
 url/de/image.png
+```
